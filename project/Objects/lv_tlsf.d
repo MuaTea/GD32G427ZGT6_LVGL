@@ -1,5 +1,6 @@
 .\objects\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_tlsf.c
 .\objects\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+<<<<<<< HEAD
 .\objects\lv_tlsf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
 .\objects\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
@@ -8,6 +9,16 @@
 .\objects\lv_tlsf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
 .\objects\lv_tlsf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+=======
+.\objects\lv_tlsf.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+.\objects\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
+.\objects\lv_tlsf.o: E:\kill5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_tlsf.h
+.\objects\lv_tlsf.o: E:\kill5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+.\objects\lv_tlsf.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
 .\objects\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_log.h
 .\objects\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_assert.h

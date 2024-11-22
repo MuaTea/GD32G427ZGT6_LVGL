@@ -1,8 +1,15 @@
 .\objects\gt1151q.o: ..\drivers\src\gt1151q.c
+<<<<<<< HEAD
 .\objects\gt1151q.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\gt1151q.o: ..\drivers\inc\lcd.h
 .\objects\gt1151q.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\gt1151q.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+=======
+.\objects\gt1151q.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\gt1151q.o: ..\drivers\inc\lcd.h
+.\objects\gt1151q.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\gt1151q.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\gt1151q.o: ..\drivers\inc\touch.h
 .\objects\gt1151q.o: ..\drivers\inc\gt1151q.h
 .\objects\gt1151q.o: ..\drivers\inc\ft5206.h
@@ -43,6 +50,11 @@
 .\objects\gt1151q.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_misc.h
 .\objects\gt1151q.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_enet.h
 .\objects\gt1151q.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_exmc.h
+<<<<<<< HEAD
 .\objects\gt1151q.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\gt1151q.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+=======
+.\objects\gt1151q.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\gt1151q.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdarg.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\gt1151q.o: ..\drivers\inc\systick.h

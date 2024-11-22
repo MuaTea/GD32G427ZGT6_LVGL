@@ -37,5 +37,9 @@
 .\objects\24cxx.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_wwdgt.h
 .\objects\24cxx.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_misc.h
 .\objects\24cxx.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_enet.h
+<<<<<<< HEAD
 .\objects\24cxx.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+=======
+.\objects\24cxx.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdlib.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\24cxx.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_exmc.h

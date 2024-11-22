@@ -1,4 +1,5 @@
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\lv_img_buf.c
+<<<<<<< HEAD
 .\objects\lv_img_buf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lv_img_buf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\lv_img_buf.h
@@ -6,6 +7,15 @@
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_color.h
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/../lv_conf_internal.h
 .\objects\lv_img_buf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+=======
+.\objects\lv_img_buf.o: E:\kill5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_img_buf.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\lv_img_buf.h
+.\objects\lv_img_buf.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_color.h
+.\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/../lv_conf_internal.h
+.\objects\lv_img_buf.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/../lv_conf_kconfig.h
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_assert.h
@@ -22,7 +32,11 @@
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/../font/lv_symbol_def.h
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_anim.h
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_txt.h
+<<<<<<< HEAD
 .\objects\lv_img_buf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+=======
+.\objects\lv_img_buf.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdarg.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_printf.h
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_bidi.h
 .\objects\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_style_gen.h

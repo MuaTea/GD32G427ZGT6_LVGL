@@ -1,6 +1,7 @@
 .\objects\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_printf.c
 .\objects\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_printf.h
 .\objects\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+<<<<<<< HEAD
 .\objects\lv_printf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
 .\objects\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
@@ -8,3 +9,12 @@
 .\objects\lv_printf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
 .\objects\lv_printf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+=======
+.\objects\lv_printf.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+.\objects\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
+.\objects\lv_printf.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\lv_printf.o: E:\kill5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+.\objects\lv_printf.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdbool.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990

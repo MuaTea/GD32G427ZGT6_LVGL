@@ -2,7 +2,11 @@
 .\objects\main.o: ..\drivers\inc\timer_drv.h
 .\objects\main.o: ..\libraries\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
 .\objects\main.o: ..\libraries\CMSIS\core_cm4.h
+<<<<<<< HEAD
 .\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+=======
+.\objects\main.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\main.o: ..\libraries\CMSIS\core_cmInstr.h
 .\objects\main.o: ..\libraries\CMSIS\core_cmFunc.h
 .\objects\main.o: ..\libraries\CMSIS\core_cm4_simd.h
@@ -35,14 +39,24 @@
 .\objects\main.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_wwdgt.h
 .\objects\main.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_misc.h
 .\objects\main.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_enet.h
+<<<<<<< HEAD
 .\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+=======
+.\objects\main.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdlib.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\main.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_exmc.h
 .\objects\main.o: ..\drivers\inc\systick.h
 .\objects\main.o: ..\drivers\inc\led_drv.h
 .\objects\main.o: ..\drivers\inc\usart_drv.h
+<<<<<<< HEAD
 .\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 .\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+=======
+.\objects\main.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\main.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\main.o: ..\drivers\inc\lcd.h
 .\objects\main.o: ..\drivers\inc\key_drv.h
 .\objects\main.o: ..\drivers\inc\touch.h
@@ -57,10 +71,17 @@
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/misc/lv_types.h
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/misc/lv_timer.h
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/misc/../hal/lv_hal_tick.h
+<<<<<<< HEAD
 .\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/misc/lv_math.h
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/misc/lv_mem.h
 .\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+=======
+.\objects\main.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/misc/lv_math.h
+.\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/misc/lv_mem.h
+.\objects\main.o: E:\kill5\ARM\ARMCC\Bin\..\include\stddef.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/misc/lv_async.h
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/misc/lv_anim_timeline.h
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/misc/lv_anim.h
@@ -138,7 +159,10 @@
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/extra/libs/png/lv_png.h
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/extra/libs/gif/lv_gif.h
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/extra/libs/gif/../../../lvgl.h
+<<<<<<< HEAD
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/extra/libs/gif/gifdec.h
+=======
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/extra/libs/qrcode/lv_qrcode.h
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/extra/libs/sjpg/lv_sjpg.h
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/extra/libs/freetype/lv_freetype.h
@@ -179,5 +203,8 @@
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\src/extra/widgets/span/lv_span.h
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\lv_port_disp_template.h
 .\objects\main.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\lv_port_indev_template.h
+<<<<<<< HEAD
 .\objects\main.o: ..\Middlewares\LVGL\Guider\generated\gui_guider.h
 .\objects\main.o: ..\Middlewares\LVGL\Guider\generated\events_init.h
+=======
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990

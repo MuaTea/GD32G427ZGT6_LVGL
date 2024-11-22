@@ -1,16 +1,27 @@
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\lv_hal_indev.c
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../misc/lv_assert.h
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../misc/../lv_conf_internal.h
+<<<<<<< HEAD
 .\objects\lv_hal_indev.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+=======
+.\objects\lv_hal_indev.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../misc/../lv_conf_kconfig.h
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../misc/lv_log.h
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../misc/lv_types.h
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../misc/lv_mem.h
+<<<<<<< HEAD
 .\objects\lv_hal_indev.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lv_hal_indev.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../hal/lv_hal_indev.h
 .\objects\lv_hal_indev.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+=======
+.\objects\lv_hal_indev.o: E:\kill5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_hal_indev.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../hal/lv_hal_indev.h
+.\objects\lv_hal_indev.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdbool.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../hal/../misc/lv_area.h
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../hal/../misc/lv_timer.h
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../hal/../misc/../hal/lv_hal_tick.h
@@ -23,7 +34,11 @@
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../core/../misc/lv_math.h
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../core/../misc/lv_anim.h
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../core/../misc/lv_txt.h
+<<<<<<< HEAD
 .\objects\lv_hal_indev.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+=======
+.\objects\lv_hal_indev.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdarg.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../core/../misc/lv_printf.h
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../core/../misc/lv_bidi.h
 .\objects\lv_hal_indev.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../core/../misc/lv_style_gen.h

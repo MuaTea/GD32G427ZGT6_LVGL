@@ -2,26 +2,43 @@
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\lv_gpu_d2_ra6m3.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../misc/lv_color.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../misc/../lv_conf_internal.h
+<<<<<<< HEAD
 .\objects\lv_gpu_d2_ra6m3.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+=======
+.\objects\lv_gpu_d2_ra6m3.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../misc/../lv_conf_kconfig.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../misc/lv_assert.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../misc/lv_log.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../misc/lv_types.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../misc/lv_mem.h
+<<<<<<< HEAD
 .\objects\lv_gpu_d2_ra6m3.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lv_gpu_d2_ra6m3.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../misc/lv_math.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/lv_refr.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/lv_obj.h
 .\objects\lv_gpu_d2_ra6m3.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+=======
+.\objects\lv_gpu_d2_ra6m3.o: E:\kill5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_gpu_d2_ra6m3.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../misc/lv_math.h
+.\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/lv_refr.h
+.\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/lv_obj.h
+.\objects\lv_gpu_d2_ra6m3.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdbool.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/../misc/lv_style.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/../misc/../font/lv_font.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/../misc/../font/lv_symbol_def.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/../misc/../font/../misc/lv_area.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/../misc/lv_anim.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/../misc/lv_txt.h
+<<<<<<< HEAD
 .\objects\lv_gpu_d2_ra6m3.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+=======
+.\objects\lv_gpu_d2_ra6m3.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdarg.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/../misc/lv_printf.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/../misc/lv_bidi.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/../misc/lv_style_gen.h
@@ -57,4 +74,8 @@
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/lv_obj_class.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/lv_event.h
 .\objects\lv_gpu_d2_ra6m3.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\renesas\../../core/lv_group.h
+<<<<<<< HEAD
 .\objects\lv_gpu_d2_ra6m3.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+=======
+.\objects\lv_gpu_d2_ra6m3.o: E:\kill5\ARM\ARMCC\Bin\..\include\math.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990

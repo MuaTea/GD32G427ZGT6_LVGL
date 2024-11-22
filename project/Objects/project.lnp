@@ -228,6 +228,7 @@
 ".\objects\lv_switch.o"
 ".\objects\lv_table.o"
 ".\objects\lv_textarea.o"
+<<<<<<< HEAD
 ".\objects\custom.o"
 ".\objects\events_init.o"
 ".\objects\gui_guider.o"
@@ -236,6 +237,8 @@
 ".\objects\lv_font_papyrus_30.o"
 ".\objects\alpha_320x480.o"
 ".\objects\raw_gif.o"
+=======
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 --strict --scatter ".\Objects\project.sct"
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

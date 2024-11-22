@@ -1,25 +1,44 @@
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\lodepng.c
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\lodepng.h
+<<<<<<< HEAD
 .\objects\lodepng.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+=======
+.\objects\lodepng.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../lvgl.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../lvgl.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/lv_log.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/../lv_conf_internal.h
+<<<<<<< HEAD
 .\objects\lodepng.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+=======
+.\objects\lodepng.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/../lv_conf_kconfig.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/lv_types.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/lv_timer.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/../hal/lv_hal_tick.h
+<<<<<<< HEAD
 .\objects\lodepng.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/lv_math.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/lv_mem.h
 .\objects\lodepng.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+=======
+.\objects\lodepng.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/lv_math.h
+.\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/lv_mem.h
+.\objects\lodepng.o: E:\kill5\ARM\ARMCC\Bin\..\include\stddef.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/lv_async.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/lv_anim_timeline.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/lv_anim.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/misc/lv_printf.h
+<<<<<<< HEAD
 .\objects\lodepng.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+=======
+.\objects\lodepng.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdarg.h
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/hal/lv_hal.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/hal/lv_hal_disp.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/hal/lv_hal.h
@@ -93,7 +112,10 @@
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/extra/libs/png/lv_png.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/extra/libs/gif/lv_gif.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/extra/libs/gif/../../../lvgl.h
+<<<<<<< HEAD
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/extra/libs/gif/gifdec.h
+=======
+>>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/extra/libs/qrcode/lv_qrcode.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/extra/libs/sjpg/lv_sjpg.h
 .\objects\lodepng.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\png\../../../../src/extra/libs/freetype/lv_freetype.h
