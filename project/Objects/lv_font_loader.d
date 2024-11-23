@@ -1,11 +1,6 @@
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\lv_font_loader.c
-<<<<<<< HEAD
 .\objects\lv_font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\lv_font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
-=======
-.\objects\lv_font_loader.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\lv_font_loader.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdbool.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../lvgl.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../lvgl.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_log.h
@@ -17,22 +12,13 @@
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/../hal/lv_hal_tick.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_math.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_mem.h
-<<<<<<< HEAD
 .\objects\lv_font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lv_font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-=======
-.\objects\lv_font_loader.o: E:\kill5\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\lv_font_loader.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_async.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_anim_timeline.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_anim.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_printf.h
-<<<<<<< HEAD
 .\objects\lv_font_loader.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-=======
-.\objects\lv_font_loader.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdarg.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/hal/lv_hal.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/hal/lv_hal_disp.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/hal/lv_hal.h
@@ -106,10 +92,7 @@
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/extra/libs/png/lv_png.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/extra/libs/gif/lv_gif.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/extra/libs/gif/../../../lvgl.h
-<<<<<<< HEAD
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/extra/libs/gif/gifdec.h
-=======
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/extra/libs/qrcode/lv_qrcode.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/extra/libs/sjpg/lv_sjpg.h
 .\objects\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/extra/libs/freetype/lv_freetype.h

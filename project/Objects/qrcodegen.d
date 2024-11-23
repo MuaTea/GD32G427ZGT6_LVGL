@@ -1,5 +1,4 @@
 .\objects\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.c
-<<<<<<< HEAD
 .\objects\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
 .\objects\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
@@ -7,15 +6,6 @@
 .\objects\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\qrcodegen.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-=======
-.\objects\qrcodegen.o: E:\kill5\ARM\ARMCC\Bin\..\include\limits.h
-.\objects\qrcodegen.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\objects\qrcodegen.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.h
-.\objects\qrcodegen.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdbool.h
-.\objects\qrcodegen.o: E:\kill5\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\qrcodegen.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\../../../misc/lv_assert.h
 .\objects\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\../../../misc/../lv_conf_internal.h
 .\objects\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\../../../misc/../lv_conf_kconfig.h

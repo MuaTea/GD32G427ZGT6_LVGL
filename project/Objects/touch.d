@@ -1,15 +1,8 @@
 .\objects\touch.o: ..\drivers\src\touch.c
-<<<<<<< HEAD
 .\objects\touch.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\touch.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\touch.o: ..\drivers\inc\lcd.h
 .\objects\touch.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-=======
-.\objects\touch.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\touch.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\objects\touch.o: ..\drivers\inc\lcd.h
-.\objects\touch.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\touch.o: ..\drivers\inc\touch.h
 .\objects\touch.o: ..\drivers\inc\gt1151q.h
 .\objects\touch.o: ..\drivers\inc\ft5206.h

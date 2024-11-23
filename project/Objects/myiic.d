@@ -1,10 +1,6 @@
 .\objects\myiic.o: ..\drivers\src\myiic.c
 .\objects\myiic.o: ..\drivers\inc\myiic.h
-<<<<<<< HEAD
 .\objects\myiic.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-=======
-.\objects\myiic.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\myiic.o: ..\drivers\inc\systick.h
 .\objects\myiic.o: ..\libraries\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
 .\objects\myiic.o: ..\libraries\CMSIS\core_cm4.h
@@ -40,9 +36,5 @@
 .\objects\myiic.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_wwdgt.h
 .\objects\myiic.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_misc.h
 .\objects\myiic.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_enet.h
-<<<<<<< HEAD
 .\objects\myiic.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-=======
-.\objects\myiic.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdlib.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\myiic.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_exmc.h

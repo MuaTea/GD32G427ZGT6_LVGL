@@ -1,13 +1,7 @@
 .\objects\lcd.o: ..\drivers\src\lcd.c
-<<<<<<< HEAD
 .\objects\lcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\lcd.o: ..\drivers\inc\lcd.h
 .\objects\lcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-=======
-.\objects\lcd.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\objects\lcd.o: ..\drivers\inc\lcd.h
-.\objects\lcd.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lcd.o: ..\drivers\inc\lcdfont.h
 .\objects\lcd.o: ..\drivers\inc\usart_drv.h
 .\objects\lcd.o: ..\libraries\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
@@ -45,14 +39,8 @@
 .\objects\lcd.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_misc.h
 .\objects\lcd.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_enet.h
 .\objects\lcd.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_exmc.h
-<<<<<<< HEAD
 .\objects\lcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\lcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 .\objects\lcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-=======
-.\objects\lcd.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\lcd.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdarg.h
-.\objects\lcd.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lcd.o: ..\drivers\inc\lcd_ex.c
 .\objects\lcd.o: ..\drivers\inc\systick.h

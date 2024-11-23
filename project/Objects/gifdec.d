@@ -1,15 +1,10 @@
 .\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\gifdec.c
 .\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\gifdec.h
-<<<<<<< HEAD
 .\objects\gifdec.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-=======
-.\objects\gifdec.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_fs.h
 .\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/../lv_conf_internal.h
 .\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/../lv_conf_kconfig.h
 .\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
-<<<<<<< HEAD
 .\objects\gifdec.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_log.h
 .\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_types.h
@@ -20,14 +15,3 @@
 .\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_assert.h
 .\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_math.h
 .\objects\gifdec.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-=======
-.\objects\gifdec.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdbool.h
-.\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_log.h
-.\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_types.h
-.\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_mem.h
-.\objects\gifdec.o: E:\kill5\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\gifdec.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_color.h
-.\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_assert.h
-.\objects\gifdec.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_math.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990

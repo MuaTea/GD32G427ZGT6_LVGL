@@ -1,7 +1,6 @@
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\lv_label.c
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\lv_label.h
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../lv_conf_internal.h
-<<<<<<< HEAD
 .\objects\lv_label.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../lv_conf_kconfig.h
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
@@ -9,15 +8,6 @@
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../core/lv_obj.h
 .\objects\lv_label.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\objects\lv_label.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
-=======
-.\objects\lv_label.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../lv_conf_kconfig.h
-.\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
-.\objects\lv_label.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdarg.h
-.\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../core/lv_obj.h
-.\objects\lv_label.o: E:\kill5\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\lv_label.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdbool.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../core/../misc/lv_style.h
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../core/../misc/../font/lv_font.h
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../core/../misc/../font/lv_symbol_def.h
@@ -27,11 +17,7 @@
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../core/../misc/lv_log.h
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../core/../misc/lv_types.h
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../core/../misc/lv_mem.h
-<<<<<<< HEAD
 .\objects\lv_label.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-=======
-.\objects\lv_label.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../core/../misc/lv_math.h
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../core/../misc/lv_anim.h
 .\objects\lv_label.o: ..\Middlewares\LVGL\GUI\lvgl\src\widgets\../core/../misc/lv_txt.h

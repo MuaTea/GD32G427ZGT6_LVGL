@@ -1,11 +1,7 @@
 .\objects\system_gd32f4xx.o: ..\libraries\CMSIS\GD\GD32F4xx\Source\system_gd32f4xx.c
 .\objects\system_gd32f4xx.o: ..\libraries\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
 .\objects\system_gd32f4xx.o: ..\libraries\CMSIS\core_cm4.h
-<<<<<<< HEAD
 .\objects\system_gd32f4xx.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-=======
-.\objects\system_gd32f4xx.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\system_gd32f4xx.o: ..\libraries\CMSIS\core_cmInstr.h
 .\objects\system_gd32f4xx.o: ..\libraries\CMSIS\core_cmFunc.h
 .\objects\system_gd32f4xx.o: ..\libraries\CMSIS\core_cm4_simd.h
@@ -38,9 +34,5 @@
 .\objects\system_gd32f4xx.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_wwdgt.h
 .\objects\system_gd32f4xx.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_misc.h
 .\objects\system_gd32f4xx.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_enet.h
-<<<<<<< HEAD
 .\objects\system_gd32f4xx.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-=======
-.\objects\system_gd32f4xx.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdlib.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\system_gd32f4xx.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_exmc.h

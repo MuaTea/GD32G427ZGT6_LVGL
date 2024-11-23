@@ -1,15 +1,8 @@
 .\objects\ft5206.o: ..\drivers\src\ft5206.c
-<<<<<<< HEAD
 .\objects\ft5206.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\ft5206.o: ..\drivers\inc\lcd.h
 .\objects\ft5206.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\ft5206.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-=======
-.\objects\ft5206.o: E:\kill5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\ft5206.o: ..\drivers\inc\lcd.h
-.\objects\ft5206.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\objects\ft5206.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\ft5206.o: ..\drivers\inc\touch.h
 .\objects\ft5206.o: ..\drivers\inc\gt1151q.h
 .\objects\ft5206.o: ..\drivers\inc\ft5206.h
@@ -50,11 +43,6 @@
 .\objects\ft5206.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_misc.h
 .\objects\ft5206.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_enet.h
 .\objects\ft5206.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_exmc.h
-<<<<<<< HEAD
 .\objects\ft5206.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\ft5206.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-=======
-.\objects\ft5206.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\ft5206.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdarg.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\ft5206.o: ..\drivers\inc\systick.h

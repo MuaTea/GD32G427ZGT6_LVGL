@@ -711,26 +711,16 @@ ARM Macro Assembler    Page 11
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
 erwork --depend=.\objects\startup_gd32f407_427.d -o.\objects\startup_gd32f407_4
-<<<<<<< HEAD
 27.o -I.\RTE\_project -ID:\Keil_v5\ARM\PACK\GigaDevice\GD32F4xx_DFP\3.2.0\Devic
 e\F4XX\Include -ID:\Keil_v5\ARM\CMSIS\Include --predefine="__UVISION_VERSION SE
-=======
-27.o -I.\RTE\_project -IE:\kill5\ARM\PACK\GigaDevice\GD32F4xx_DFP\3.2.0\Device\
-F4XX\Include -IE:\kill5\ARM\CMSIS\Include --predefine="__UVISION_VERSION SETA 5
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 
 
 
 ARM Macro Assembler    Page 12 
 
 
-<<<<<<< HEAD
 TA 523" --predefine="GD32F427 SETA 1" --list=.\listings\startup_gd32f407_427.ls
 t ..\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s
-=======
-23" --predefine="GD32F427 SETA 1" --list=.\listings\startup_gd32f407_427.lst ..
-\libraries\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f407_427.s
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 
 
 

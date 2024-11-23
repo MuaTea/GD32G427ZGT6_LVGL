@@ -1,10 +1,6 @@
 .\objects\key_drv.o: ..\drivers\src\key_drv.c
 .\objects\key_drv.o: ..\drivers\inc\key_drv.h
-<<<<<<< HEAD
 .\objects\key_drv.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-=======
-.\objects\key_drv.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdint.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\key_drv.o: ..\drivers\inc\systick.h
 .\objects\key_drv.o: ..\libraries\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
 .\objects\key_drv.o: ..\libraries\CMSIS\core_cm4.h
@@ -40,9 +36,5 @@
 .\objects\key_drv.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_wwdgt.h
 .\objects\key_drv.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_misc.h
 .\objects\key_drv.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_enet.h
-<<<<<<< HEAD
 .\objects\key_drv.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-=======
-.\objects\key_drv.o: E:\kill5\ARM\ARMCC\Bin\..\include\stdlib.h
->>>>>>> 39fdb3a0d49d6288c21c3f00137cf5c1e4db8990
 .\objects\key_drv.o: ..\libraries\GD32F4xx_standard_peripheral\Include\gd32f4xx_exmc.h

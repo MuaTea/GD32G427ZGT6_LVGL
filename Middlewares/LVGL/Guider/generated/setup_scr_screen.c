@@ -82,6 +82,8 @@ static void update_span_text(lv_timer_t * timer) {
         // 停止定时器
         lv_timer_del(timer);
 
+        // lv_obj_clear_flag(objects->gif, LV_OBJ_FLAG_HIDDEN);
+
         // 启用交互模式
         if (!is_interactive_mode) {
             is_interactive_mode = true;
@@ -202,6 +204,7 @@ void setup_scr_screen(lv_ui *ui)
     lv_gif_set_src(gif,&raw_gif);
     lv_obj_align(gif, LV_ALIGN_BOTTOM_MID, 0, 0);  // 底部显示 GIF
     lv_obj_move_foreground(gif);  // 确保 GIF 位于最上层
+    // lv_obj_add_flag(gif,LV_OBJ_FLAG_HIDDEN);
 
     //The custom code of screen.
 
