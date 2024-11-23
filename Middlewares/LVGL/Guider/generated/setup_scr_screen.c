@@ -18,12 +18,15 @@
 typedef struct {
     lv_obj_t * label;
     lv_obj_t * bar;
+    lv_obj_t *slider;
+    lv_obj_t *gif;
 } ui_objects_t;
 
 
 #define TEXT_COUNT (sizeof(texts) / sizeof(texts[0]))
 
 static int current_text_index = 0;
+static bool is_interactive_mode = false;
 
 static const char * texts[] = {
     "I met a Traveller from\nan antique land ..",
@@ -46,12 +49,24 @@ int calculate_display_time(const char *text) {
     return length * time_per_char;
 }
 
+static void slider_event_cb(lv_event_t *e) {
+    lv_obj_t *slider = lv_event_get_target(e);
+    ui_objects_t *objects = (ui_objects_t *)lv_event_get_user_data(e);
+
+    if (!objects || !objects->label) return;
+
+    // 获取滑动条值并更新文本
+    int index = lv_slider_get_value(slider);
+    lv_label_set_text(objects->label, texts[index]);
+}
+
+
 // 定时器回调函数，定时更改文本
 static void update_span_text(lv_timer_t * timer) {
     // 从定时器的数据中获取 ui_objects_t 结构体
     ui_objects_t * objects = (ui_objects_t *)timer->user_data;
 
-    if (!objects || !objects->label || !objects->bar)   return;
+    if (!objects || !objects->label || (!objects->bar && !objects->slider))   return;
 
     // 更新 label 的文本
     lv_label_set_text(objects->label, texts[current_text_index]);
@@ -62,12 +77,45 @@ static void update_span_text(lv_timer_t * timer) {
     lv_bar_set_value(objects->bar,progress,LV_ANIM_ON);  // 更新进度条的值
     lv_obj_set_style_anim_time(objects->bar,500,0);  // 设置动画时间为500ms，使得进度条变化更加平滑
 
-    // 根据当前文本长度重新设置定时器时间
-    int new_interval = calculate_display_time(texts[current_text_index]);
-    lv_timer_set_period(timer,new_interval);
+    // 检查是否完成
+    if (current_text_index == TEXT_COUNT - 1) {
+        // 停止定时器
+        lv_timer_del(timer);
+
+        // 启用交互模式
+        if (!is_interactive_mode) {
+            is_interactive_mode = true;
+
+            //安全删除进度条
+            if (objects->bar) {
+                lv_obj_remove_event_cb(objects->bar,NULL);
+                lv_obj_del(objects->bar);
+                objects->bar = NULL;
+            }
+
+            // 创建滑动条
+            lv_obj_t *slider = lv_slider_create(lv_obj_get_parent(objects->label));
+            lv_obj_set_size(slider, 265, 20);
+            lv_obj_set_pos(slider, 29, 205);
+            lv_slider_set_range(slider, 0, TEXT_COUNT - 1);
+            lv_slider_set_value(slider, current_text_index, LV_ANIM_OFF);
+            lv_obj_set_style_anim_time(slider, 500, 0);
+
+            // 添加滑动事件回调
+            lv_obj_add_event_cb(slider, slider_event_cb, LV_EVENT_VALUE_CHANGED, objects);
+
+            // 更新对象引用
+            objects->slider = slider;
+        }
+        return; // 不再更新
+    }
 
     // 更新索引，准备显示下一个文本段落
     current_text_index = (current_text_index + 1) % TEXT_COUNT;
+
+    // 根据当前文本长度重新设置定时器时间
+    int new_interval = calculate_display_time(texts[current_text_index]);
+    lv_timer_set_period(timer,new_interval);
 }
 
 void Text_span(lv_ui *ui) {
@@ -152,7 +200,7 @@ void setup_scr_screen(lv_ui *ui)
     //Display gif
     lv_obj_t *gif = lv_gif_create(ui->screen);
     lv_gif_set_src(gif,&raw_gif);
-    lv_obj_align(gif, LV_ALIGN_BOTTOM_MID, 0, -75);  // 底部显示 GIF
+    lv_obj_align(gif, LV_ALIGN_BOTTOM_MID, 0, 0);  // 底部显示 GIF
     lv_obj_move_foreground(gif);  // 确保 GIF 位于最上层
 
     //The custom code of screen.
