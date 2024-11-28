@@ -32,6 +32,7 @@
 ".\objects\startup_gd32f407_427.o"
 ".\objects\gd32f4xx_it.o"
 ".\objects\main.o"
+".\objects\demo.o"
 ".\objects\timer_drv.o"
 ".\objects\systick.o"
 ".\objects\led_drv.o"

@@ -4,10 +4,6 @@
             "path": "."
         }
     ],
-    "settings": {
-        "files.associations": {
-            "gui_guider.h": "c"
-        }
-    },
+    "settings": {},
     "extensions": {}
 }

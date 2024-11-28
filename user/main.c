@@ -21,7 +21,7 @@ void HardWare_Init(void)
 {
 	Systick_Init(200);
 	LED_Init();
-    usart_init(2000000);
+	usart_init(2000000);
 	timer6_init(1000-1,100-1);//1ms¶¨Ê±
 	lcd_init();
 	tp_dev.init(); 
@@ -35,6 +35,7 @@ int main(void)
 {
 	HardWare_Init();
 	
+	// lv_example_menu_5();
 	setup_ui(&guider_ui);
   	events_init(&guider_ui);
 	while(1)

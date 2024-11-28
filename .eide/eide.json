@@ -827,6 +827,9 @@
           },
           {
             "path": "Middlewares/LVGL/Guider/generated/guider_fonts/lv_font_PAPYRUS_30.c"
+          },
+          {
+            "path": "project/demo.c"
           }
         ],
         "folders": []
